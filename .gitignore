@@ -1,3 +1,4 @@
-data.exe
-data_manipulation.o
-data_manipulation.hi
+
+date_manipulation.o
+.gitignore
+date_manipulation.hi
